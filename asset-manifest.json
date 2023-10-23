@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bee_frontend/static/css/main.77982fca.css",
+    "main.js": "/bee_frontend/static/js/main.ab33626f.js",
+    "static/media/background.jpg": "/bee_frontend/static/media/background.0720c3d7753a4215fed5.jpg",
+    "static/media/garden05.jpg": "/bee_frontend/static/media/garden05.1d7093ba734eeafd1706.jpg",
+    "static/media/garden04.jpg": "/bee_frontend/static/media/garden04.045a1a2b18463e983fdd.jpg",
+    "static/media/garden02.jpg": "/bee_frontend/static/media/garden02.dbd96918845d6c00d5dc.jpg",
+    "static/media/garden01.jpg": "/bee_frontend/static/media/garden01.7a284bcffeb5aef16686.jpg",
+    "static/media/header_bg.png": "/bee_frontend/static/media/header_bg.f6db0cc61ba132283b20.png",
+    "static/media/Hansip.ttf": "/bee_frontend/static/media/Hansip.645f140b0213d58cb012.ttf",
+    "static/media/user_bee.png": "/bee_frontend/static/media/user_bee.fce8c4a3af4ab5986e87.png",
+    "static/media/header_menu.png": "/bee_frontend/static/media/header_menu.3e2dd10b2ba333cac526.png",
+    "static/media/but1.png": "/bee_frontend/static/media/but1.5a14f4928add62bdf460.png",
+    "static/media/icon_menu2.png": "/bee_frontend/static/media/icon_menu2.d760f043e12984fee982.png",
+    "static/media/icon_menu.png": "/bee_frontend/static/media/icon_menu.a48d46fdda5056a9cd63.png",
+    "static/media/SCRUBLAND.ttf": "/bee_frontend/static/media/SCRUBLAND.92daa688cac44a3c31f5.ttf",
+    "static/media/but_options.png": "/bee_frontend/static/media/but_options.0af68d14b03396be2dbf.png",
+    "static/media/hony.png": "/bee_frontend/static/media/hony.f43646f8a9c1487d96bd.png",
+    "static/media/back.png": "/bee_frontend/static/media/back.1da7e50aacd02ec25699.png",
+    "index.html": "/bee_frontend/index.html",
+    "main.77982fca.css.map": "/bee_frontend/static/css/main.77982fca.css.map",
+    "main.ab33626f.js.map": "/bee_frontend/static/js/main.ab33626f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77982fca.css",
+    "static/js/main.ab33626f.js"
+  ]
+}
